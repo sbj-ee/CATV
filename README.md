@@ -21,7 +21,9 @@ id|eia|center_freq_mhz
 sqlite> 
 ```
 QAM 256
+
 EIA A2 is 57MHz center frequency
+
 EIA A3 is 63MHz center frequency
 
 ## sources.dat
