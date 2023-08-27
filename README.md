@@ -20,6 +20,9 @@ id|eia|center_freq_mhz
 5|6|85
 sqlite> 
 ```
+QAM 256
+EIA A2 is 57MHz center frequency
+EIA A3 is 63MHz center frequency
 
 ## sources.dat
 A simple two column file of TiVo iGuide.source_id(s) and source_name(s).  I read in this file for some scripts and it has been useful over the years. Especially for a script that cannot get to a database.
