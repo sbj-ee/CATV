@@ -12,3 +12,6 @@ sqlite> .schema
 CREATE TABLE eia (id NUMERIC, eia NUMERIC, center_freq_mhz NUMERIC);
 sqlite> 
 ```
+
+## sources.dat
+A simple two column file of TiVo iGuide.source_id(s) and source_name(s).  I read in this file for some scripts and it has been useful over the years. Especially for a script that cannot get to a database.
