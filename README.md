@@ -27,6 +27,6 @@ sqlite>
 ## sources.dat
 A simple two column file of TiVo iGuide.source_id(s) and source_name(s).  I read in this file for some scripts and it has been useful over the years. Especially for a script that cannot get to a database. In this case, I usually create a key-value pair for use.
 
-> [Note!]
+> [!Note]
 > The local broadcast side car channels change frequently. So, there is a possibility that some of them do not reflect the correct content.
 
