@@ -1,5 +1,6 @@
 # CATV
-Some useful CATV related items
+
+Reference data for cable television systems including EIA channel frequencies and TiVo source IDs.
 
 ## catv.db
 A sqlite database containing the video EIA and center frequencies
